@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anogrammizer</string>
+    <string name="searchWord">Решить анограмму</string>
+</resources>
